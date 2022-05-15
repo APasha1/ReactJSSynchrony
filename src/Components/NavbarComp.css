@@ -1,0 +1,8 @@
+.linknone {
+    text-decoration: none;
+    color: white;
+}
+.linknone:hover {
+    color: silver;
+    transition: color .35s;
+}
